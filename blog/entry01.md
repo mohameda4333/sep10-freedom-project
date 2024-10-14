@@ -24,4 +24,8 @@ I have many commitments outside and inside of school. I have to pick my sister u
 
 #### Embracing Failure
 
-Pursuing my career of becoming a doctor and specializing in medicine is very hard so learning how to embrace failure is a big part of my skills. The reason that medicine is liked so much in society is because of it's impact, and how succesful someone needs to be to actually become a doctor. Medicine isn't an easy career to 
+Pursuing my career of becoming a doctor and specializing in medicine is very hard so learning how to embrace failure is a big part of my skills. The reason that medicine is liked so much in society is because of it's impact, and how succesful someone needs to be to actually become a doctor. Medicine isn't an easy career to followw so I need to understand that at some point, I might fail. At that point, I will just have to embrace it and know that failure is a part of succeeding.
+
+## Summary
+
+My passion of becoming a doctor was an insipiration from my dad as he is a physical therapist and the soceity. My next steps will be to study and research more about this topic and continue to try my best to become a doctor.
