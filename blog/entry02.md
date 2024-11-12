@@ -2,7 +2,7 @@
 ##### 11/7/2024
 
 ## Context
-After deciiding on my career, I researched software and hardware devices that doctors use during their jobs. For example, I found devices like:
+After deciding on my career, I researched software and hardware devices that doctors use during their jobs. For example, I found devices like:
 ```
 -The first device was a Resonance Imaging which was an MR Device
   -This device is an MRI device that is used to create detailed pictures of the body.
@@ -25,10 +25,11 @@ https://coolermed.com/medical-devices-used-in-hospital/
 https://openmedscience.com/what-are-medical-devices-types-regulation-and-future-trends/
 
 ## Engineering Design Process
-I'am currently in stage 2 of the Engineering Design Process (EDP). This stage in EDP is about researching the problem. I have been, and still am, researching my problem of medicine. My main problem about medicine used to be what career to exactly choose. Adding on to this idea, I'am researching about the devices that different types of doctors in medicine use. This helped me understand the gist behind the different careers and how doctors use these hardware devices effectively.
+I'am currently in stage 2 of the Engineering Design Process (EDP). This stage in EDP is about researching the problem. I have been, and still am, researching my problem of medicine. My main problem about medicine used to be what career to choose. Adding on to this idea, I'am researching about the devices that different types of doctors in medicine use. This helped me understand the gist behind the different careers and how doctors use these hardware devices effectively.
 
 ## Skill reflection
-A skill that I used on my last entry was time management. This skill was very essential to me as I have many priorities to committ to. After finishing all of my homework after school, I decided to continue researching about medicine. I did this on the days that I am free on. For example, I'am currently busy on sunday's, tuesday's, and friday's. For this reason, I reasearch about medicine on days that I'am not busy like monday's, wednseday's, and thursday's. Saturday is a break day to catch up on anything I'am missing and just chill.
+A skill that I used on my last entry was time management. This skill was very essential to me as I have many priorities to commit to. After finishing all of my homework after school, I decided to continue researching about medicine. I did this on the days that I am free on. For example, I'am currently busy on sunday's, tuesday's, and friday's. For this reason, I research medicine on days that I'm not busy on like Mondays, Wednesdays, and Thursdays. Saturday is a break day to catch up on anything I'am missing and just chill.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
