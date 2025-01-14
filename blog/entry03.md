@@ -1,11 +1,80 @@
-# Entry 3
+# Entry 3: Part B of Hardware devices in Medicine
 ##### 1/2/25
 
 ### Content
 
-For this project, I chose to explore how hardware devices play an essential role in the field of medicine. The aspects of both medicine and technology is very interesting, and I wanted to understand how these devices impact a doctors ability to diagnose and treat patients effectively. The two sources that helped me decide on this topic were ["Is being a Doctor Worth It"](https://www.sgu.edu/blog/medical/is-being-a-doctor-worth-it/) by St. George’s University and “Reasons Why Studying Medicine is an Amazing Career Choice” by Quest International University.
+For this project, I chose to explore how hardware devices play an essential role in the field of medicine. The aspects of both medicine and technology is very interesting, and I wanted to understand how these devices impact a doctors ability to diagnose and treat patients effectively. The two sources that helped me decide on this topic were ["Is being a Doctor Worth It"](https://www.sgu.edu/blog/medical/is-being-a-doctor-worth-it/) by St. George’s University and [“Reasons Why Studying Medicine is an Amazing Career Choice”](https://qiu.edu.my/7-reasons-why-studying-medicine-is-an-amazing-career-choice/) by Quest International University. For FP part B, I firstly decided to sort them in rows based on how common the devices were to society as shown below:
+```list
+The 3 most common known hardware devices in Medicine:			
+– The most common known device in 		
+medicine is the X-ray device				
+X-rays are used for tissue and bone
+imaging in hospitals. The inside of the body is 
+visualized with X-rays.
+– The second hardware is an
+ Ultrasonography (USG) Device
+The USG device, known as ultrasound, 
+is used to examine invisible changes in
+ the human body.
+– The first device was a Resonance 
+Imaging which was an MR Device
+This device is an MRI device that is 
+used to create detailed pictures of the 
+Body.
+```
 
-Sources: Research and Resources Used
+However, this idea didn't seem very interesting because it didn't explore further into the topic to create a better organization. My second idea was to seperate these devices under 4 small topics as shown below:
+```list
+1. Imaging Devices:
+
+MRI (Magnetic Resonance Imaging) Device
+
+Purpose: Creates detailed images of internal organs and tissues using magnetic fields and radio waves.
+Common Uses: Detecting tumors, brain disorders, spinal cord injuries.
+Key Features: Non-invasive, no radiation.
+X-Ray Device
+
+Purpose: Visualizes bones and tissues inside the body using X-rays (a type of radiation).
+Common Uses: Diagnosing fractures, infections, and bone disorders.
+Key Features: Fast, effective for bone imaging, uses radiation.
+Ultrasonography (USG) Device
+
+Purpose: Uses high-frequency sound waves to create images of internal organs.
+Common Uses: Monitoring pregnancy, diagnosing issues with organs (e.g., liver, kidneys).
+Key Features: Non-invasive, safe, real-time imaging.
+2. Therapeutic Devices:
+
+Defibrillator Device
+
+Purpose: Delivers an electrical shock to restore normal heart rhythm.
+Common Uses: Cardiac arrest, arrhythmias.
+Key Features: Portable, life-saving in emergencies.
+Angiography Device
+
+Purpose: Provides images of blood vessels to detect blockages or abnormalities.
+Common Uses: Diagnosing cardiovascular issues, planning treatments like stent placement.
+Key Features: Contrast dye used for clear imaging of blood vessels.
+3. Monitoring and Diagnostic Devices:
+
+ECG (Electrocardiogram) Device
+
+Purpose: Measures electrical activity of the heart.
+Common Uses: Diagnosing heart diseases, monitoring heart function.
+Key Features: Portable, non-invasive, real-time data.
+Pulse Oximeter
+
+Purpose: Measures oxygen levels in the blood.
+Common Uses: Monitoring respiratory conditions (e.g., asthma, pneumonia).
+Key Features: Non-invasive, quick readings.
+4. Support and Storage Devices:
+
+Vaccine Refrigerator
+Purpose: Stores vaccines at required temperatures to maintain efficacy.
+Common Uses: Vaccine storage in hospitals, clinics, pharmacies.
+Key Features: Temperature-controlled, essential for vaccine preservation.
+```
+
+### Sources
 
 Throughout my research, I used a variety of credible resources to gather information about medical devices. Some key sources include:
 
