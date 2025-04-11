@@ -13,7 +13,7 @@ After doing some research and trying things out myself, I gained a lot more know
 - <a-cursor>
 - <a-cylinder>
 ```
-These examples are primitives built within Aframe to add components that will make the  
+These examples are primitives built within Aframe to add components that will make the website/model look way better. I tinkered with these primitives by adding different primitives to my model and changing their size, position, and shape. For instance, I added a plane by using the code `<a-plane>`. The plane was the main platform that everything depended on. It looks like a flat surface depending on where u place it. I change the length and width of the plane to make it a lot bigger so that all of the other primitives that I add can stay on it. My first model that I tried to edit was some simple shapes first with a change in the background color that looked like a sky. I added the plane and the models by first positioning them to their exact spot. Then I changed the background color through the primitive `<a-sky`.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
