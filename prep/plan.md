@@ -6,7 +6,9 @@
 * [Desktop](https://github.com/mohameda4333/sep10-freedom-project/blob/main/img.md/desktop.png)
 
 ## Colors
-* `#ABC123`
+* `#00008B`
+* `#008000`
+* `#FF0000`
 
 ## Fonts
 * [Text](URL)
