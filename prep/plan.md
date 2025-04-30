@@ -11,7 +11,7 @@
 * `#FF0000`
 
 ## Fonts
-* [Soria]([URL](https://www.figma.com/resource-library/best-fonts-for-websites/#_20-soria))
+* [Soria](https://www.figma.com/resource-library/best-fonts-for-websites/#_20-soria)
 * [Sreda](https://www.figma.com/resource-library/best-fonts-for-websites/#_23-sreda)
 * [Arvo](https://www.figma.com/resource-library/best-fonts-for-websites/#_24-arvo)
 
