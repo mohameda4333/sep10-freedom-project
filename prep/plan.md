@@ -11,19 +11,27 @@
 * `#FF0000`
 
 ## Fonts
-* [Text](URL)
+* [Soria]([URL](https://www.figma.com/resource-library/best-fonts-for-websites/#_20-soria))
+* [Sreda](https://www.figma.com/resource-library/best-fonts-for-websites/#_23-sreda)
+* [Arvo](https://www.figma.com/resource-library/best-fonts-for-websites/#_24-arvo)
 
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
+* Type all written information in the website
+* Place the information in its right placement
+* Add images and videos
+* Add Aframe models
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Add components like navbar and carousel
+* Style the website with lines like shown in the wireframe
+* Add different colors for background
+* Add font for different titles
 
 
 
