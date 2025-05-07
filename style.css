@@ -1,5 +1,4 @@
 header {
-    padding-top: 80px; /* Space for fixed navbar */
     padding-bottom: 40px; /* Space before the overview section */
 }
 
@@ -9,7 +8,6 @@ header h1 {
     color: #343a40;
 }
 
-/* Style the Overview Section */
 #overview {
     padding: 20px;
     background-color: #f8f9fa;
@@ -17,14 +15,12 @@ header h1 {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Overview Text */
 #overview .lead {
     font-size: 1.2rem;
     color: #495057;
     line-height: 1.6;
 }
 
-/* Section Titles */
 section h2 {
     font-size: 2rem;
     margin-bottom: 20px;
@@ -32,18 +28,8 @@ section h2 {
     font-weight: bold;
 }
 
-/* Carousel */
 .carousel-inner img {
     width: 100%;
     height: auto;
 }
 
-/* General Spacing */
-section {
-    margin-top: 40px;
-}
-
-/* Sticky Navbar */
-body {
-    padding-top: 70px; /* Adjust for fixed navbar */
-}
