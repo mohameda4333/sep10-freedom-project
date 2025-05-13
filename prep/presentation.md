@@ -1,16 +1,21 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will hook the people by introducing advanced inventions in an Aframe model that can be used in Medicine. These inventions are very interesting to know about so the people will definitely get hooked.
 
 ## Product
-* 
+* My product will be about future inventions such as the pill dispenser that easily dispenses pills within one press of a button. They can experience this through an Aframe interactive model of the pill dispenser.
 
 ## Process
-* 
+* MVP: information about pill dispenser
+* Beyond MVP: Interactive Aframe model of invention
+* Code Snippets of MVP and Aframe models
 
 ## Conclusion
-* 
+* [https://mohameda4333.github.io/sep10-freedom-project/]
+* Takeaways
+* More inventions can be made to help support doctors in treating patients
+* The Aframe model helps the user understand every part of a medicine invention through interacting with it.
 
 <!-- EXAMPLE
 
