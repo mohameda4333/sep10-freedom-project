@@ -44,7 +44,7 @@
     </section>
     <section id="overview" class="container mt-4">
       <h3>Current inventions</h3>
-      <p>An example of a current invention that we use today for medicine is the X-ray. The X-ray is a device that doctors </p>
+      <p>An example of a current invention that we use today for medicine is the X-ray. The X-ray is a device that doctors use to see the bones and inside the human body. It is very useful because it helps you</p>
     </section>
     <section id="overview" class="container mt-4">
       <h3>Future inventions</h3>
@@ -77,6 +77,27 @@
             </button>
         </div>
     </section>
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+
+<!-- Pill Dispenser Model Section -->
+<section class="py-5 bg-light">
+  <div class="container text-center">
+    <h2>Pill Dispenser Model</h2>
+    <div class="d-flex justify-content-center">
+      <a-scene embedded style="width: 300px; height: 300px; border-radius: 12px;">
+        <!-- Dispenser Body -->
+        <a-cylinder position="0 0.75 0" radius="0.3" height="1.5" color="#4a90e2"></a-cylinder>
+        <!-- Dispenser Cap -->
+        <a-sphere position="0 1.6 0" radius="0.32" color="#1c3e74"></a-sphere>
+        <!-- Pill Button -->
+        <a-box position="0 0.3 0.31" depth="0.05" height="0.1" width="0.2" color="#ffffff"></a-box>
+        <!-- Light & Camera -->
+        <a-light type="directional" position="1 2 1" intensity="1.2"></a-light>
+        <a-camera position="0 1.5 3"></a-camera>
+      </a-scene>
+    </div>
+  </div>
+</section>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
