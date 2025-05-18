@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <style>
+  body {
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+    background-attachment: fixed;
+  }
+</style>
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,43 +51,10 @@
     </section>
     <section id="overview" class="container mt-4">
       <h3>Current inventions</h3>
-      <p>An example of a current invention that we use today for medicine is the X-ray. The X-ray is a device that doctors use to see the bones and inside the human body. It is very useful because it helps you</p>
-    </section>
-    <section id="overview" class="container mt-4">
-      <h3>Future inventions</h3>
       <p>The first invention is the pill dispenser. This invention is very useful as it dispenses pills based on when you need to take them. For example, the pill dispenser can have 3 buttons that each have an empty container if the button is lifted. The pills can be put in that empty container. There can be one red button that says "morning". One yellow button that says "afternoon". And one green button that says "night". By simply pressing on one of the buttons, a pill is dispensed based on where the pill is and the time of the day. This invention is very easy to use and efficient for people who often forget to take their pills throughout the day.</p>
     </section>
-
-    <section id="carousel" class="container mt-5">
-        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="X-Ray machine.jpg" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="https://via.placeholder.com/600x300?text=Image+2" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="https://via.placeholder.com/600x300?text=Image+3" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="https://via.placeholder.com/600x300?text=Image+4" class="d-block w-100" alt="...">
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-    </section>
     <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
-
-<!-- Pill Dispenser Model Section -->
-<section class="py-5 bg-light">
+    <section class="py-5" style="background-color: transparent;">
   <div class="container text-center">
     <h2>Pill Dispenser Model</h2>
     <div class="d-flex justify-content-center">
@@ -98,6 +72,26 @@
     </div>
   </div>
 </section>
+    <section id="overview" class="container mt-4">
+      <h3>Future inventions</h3>
+      <p>An example of a future invention that we might use in the future is a brain scanner machine. A brain scanner is a medical imaging device used to visualize the structure of the human brain. It helps doctors diagnose conditions, guide treatment, and understand brain functions. This is a potential invention that can be </p>
+    </section>
+    <section class="py-5">
+  <div class="container text-center">
+    <h2>Brain Scanner Model</h2>
+    <div class="d-flex justify-content-center">
+      <a-scene embedded style="width: 300px; height: 300px; border-radius: 12px;">
+        <a-sphere position="0 1 0" radius="0.4" color="#f06292" animation="property: rotation; to: 0 360 0; loop: true; dur: 5000"></a-sphere>
+        <a-torus position="0 1.2 0" radius="0.6" tube="0.05" rotation="90 0 0" color="#00bcd4"></a-torus>
+        <a-cylinder position="0 1.5 0" height="0.3" radius="0.05" color="#80deea" opacity="0.7" animation="property: position; dir: alternate; dur: 1000; loop: true; to: 0 0.5 0"></a-cylinder>
+        <a-light type="ambient" color="#ffffff"></a-light>
+        <a-light type="directional" position="1 2 1" intensity="1"></a-light>
+        <a-camera position="0 1.5 3"></a-camera>
+      </a-scene>
+    </div>
+  </div>
+</section>
+
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
