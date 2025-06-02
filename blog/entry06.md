@@ -28,9 +28,10 @@ As of right now when I was making my project, I am in step 5 of the Engineering 
 
 ### Time Management
 
-Time management is a very essential skill that I learned 
+Time management is a very essential skill that I learned about while I was working on the MVP of my project. This skill is very hard to learn because it was a problem with my life outside of school. For instance, I take 3 courses a week outside of school and I go to the gym almost 5 days a week. I am also busy with other things that tie to my religion, hanging out with friends while maintaining a social life, and managing school altogether. As a result, I became lazy while doing the work for school because although I knew it would help me in the long run, I got greedy and I wanted to enjoy myself right now. However, as time moved on, I realized that I can't enjoy my life right now or in the future if I keep being lazy because it adds stress to me. As a result, I decided to manage my time and finish my work especially in the weekends where I have a lot of time to catch up on work I missed.
 ### Embracing Failure
 
+Embracing failure is one of the best skills to learn, but worst skill that people want to learn. Once I knew that I had lower grades than before, I became more stressed and upset with my life because I knew that I could control my success, but I decided to focus on my own. But then I decided to accept it. Theres nothing I can do to change my grades in the past, but I can change my grades in the future. So I decided to embrace my failure and move forward in my life.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
