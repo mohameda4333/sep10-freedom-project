@@ -1,25 +1,32 @@
 # SEP10 Freedom Project
-by **X**
+by Mohamed Aboseria
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of Medicine. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study A-Frame in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://mohameda4333.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1K3uT4nX3qnQb6nJr3vHw48lKqtXL5tSvXIFyzE1dKUw/edit)
 
 ## Implications
 ##### PROS
-* 
+* Improved global health standards
+* Organized healthcare delivery
+* Insurance models help manage costs for people.
+* Hospitals, clinics, and research labs are all essential parts of society.
 ##### CONS
-* 
-
+* Inequality in access
+* Can lead to laws favoring corporations over public welfare.
+* Long wait times.
+* Can limit access or delay treatment.
+* High personal healthcare costs.
+* Medical debt.
 
 ## Blog
 Below you will find my blog about how I made my project.
