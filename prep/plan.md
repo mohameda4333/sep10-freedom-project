@@ -32,6 +32,13 @@
 * Style the website with lines like shown in the wireframe
 * Add different colors for background
 * Add font for different titles
+* Add dropdown menu
+* Add information in cards
+* Add interactive Aframe models
+* Fix navbar
+* Make it responsive
+* Add part A
+* Add more information about topic instead of inventions
 
 
 
